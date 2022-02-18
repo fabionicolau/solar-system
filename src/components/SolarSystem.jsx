@@ -1,5 +1,4 @@
 import React from 'react';
-// import PropTypes from 'prop-types';
 import Title from './Title';
 import PlanetCard from './PlanetCard';
 import Planets from '../data/planets';
