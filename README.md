@@ -6,7 +6,7 @@
 
 <h1>Instalando</h1>
 
-<p>Para instalar o projeto, basta executar o comando <code>npm install</code> no diretório raiz do projeto.</p>
+<p>Para instalar, basta executar o comando <code>npm install</code> no diretório raiz do projeto.</p>
 <p>Logo depois execute o comando <code>npm start</code></p>
 
 <h1>Tecnologias utilizadas</h1>
