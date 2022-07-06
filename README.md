@@ -1,5 +1,5 @@
 <h1>Sobre</h1>
-<p>Primeiro projeto do módulo 1 - Front-end, da <a href="https://betrybe.com" target="_blank">Trybe!</a></p>
+<p>Primeiro projeto do módulo 2 - Front-end, da <a href="https://betrybe.com" target="_blank">Trybe!</a></p>
 <p>Como primeiro desafio, tivemos que desenvolver uma aplicação em React com criação de componentes de classe e passagem de props. Essa aplicação simula uma visualização do Sistema Solar com informações sobre diversas missões espaciais que ocorreram ao longo da história.</p>
 
 <p>obs: As imagens dos planetas e as informações das missões são fornecidas no projeto.</p>
